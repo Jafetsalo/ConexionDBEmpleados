@@ -25,6 +25,7 @@ namespace ConexionDBEmpleados
                 MainForm mainForm = new MainForm();
                 this.Hide();
                 mainForm.ShowDialog();
+                this.Close();
                 
             }
             else 
