@@ -1,0 +1,13 @@
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.csproj.AssemblyReference.cache
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.Properties.Resources.resources
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.csproj.GenerateResource.cache
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\bin\Debug\ConexionDBEmpleados.exe.config
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\bin\Debug\ConexionDBEmpleados.exe
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\bin\Debug\ConexionDBEmpleados.pdb
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.InsertForm.resources
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.exe
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.pdb
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.MainForm.resources
+C:\Users\Jafet\source\repos\ConexionDBEmpleados\obj\Debug\ConexionDBEmpleados.LoginForm.resources
